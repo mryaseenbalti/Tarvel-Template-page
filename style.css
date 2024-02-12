@@ -90,7 +90,7 @@ ul li {
     height: 562px;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
   }
   .mini-container {
     width: 80%;
